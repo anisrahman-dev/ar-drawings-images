@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "format": "webp",
+  "categories": {
+    "dragon_ball": 39,
+    "naruto": 32,
+    "one_piece": 32,
+    "pokemon": 32,
+    "sailor_moon": 23,
+    "studio_ghibli": 28
+  }
+}
